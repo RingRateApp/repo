@@ -1,0 +1,1 @@
+javascript: document.documentElement.style.overflow = 'scroll';document.body.style.overflow = 'scroll';document.getElementsByClassName('fEy1Z2XT ')[0].remove();
